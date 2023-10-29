@@ -86,50 +86,46 @@ export const WhyRecycleData = [
 
 export const FAQs = [
     {
-        question: "Why your Service ?",
-        answer: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        question: "What is electronic waste (e-waste)?",
+        answer: "Electronic waste, or e-waste, refers to discarded electronic devices and equipment that are no longer in use or have reached the end of their useful life. This can include items like old computers, mobile phones, televisions, and appliances.",
         id: 1
     },
     {
-        question: "Why your Service ?",
-        answer: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        question: "Why is e-waste a concern?",
+        answer: "E-waste is a concern because electronic devices often contain hazardous materials such as lead, mercury, and cadmium. Improper disposal of e-waste can lead to environmental pollution and health risks.",
         id: 2
     },
     {
-        question: "Why your Service ?",
-        answer: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        question: "How should I dispose of e-waste?",
+        answer: "It's crucial to dispose of e-waste responsibly. Many regions have designated e-waste recycling programs and collection centers where you can drop off old electronics. Recycling helps recover valuable materials and ensures safe disposal of hazardous substances.",
         id: 3
     },
     {
-        question: "Why your Service ?",
-        answer: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        question: "Can e-waste be refurbished or reused?",
+        answer: "Yes, many electronic devices can be refurbished or reused. Recycling programs often include processes for refurbishing or repairing devices that are still functional. Donating or selling old electronics for reuse can extend their lifespan and reduce e-waste.",
         id: 4
     },
     {
-        question: "Why your Service ?",
-        answer: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        question: "What are the environmental impacts of e-waste disposal?",
+        answer: "Improper e-waste disposal can result in environmental problems, including soil and water contamination. Toxic materials from electronic devices can harm ecosystems and human health. Additionally, e-waste in landfills contributes to pollution and resource waste.",
         id: 5
     },
     {
-        question: "Why your Service ?",
-        answer: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        question: "Are there regulations for managing e-waste?",
+        answer: "Many countries have established regulations and laws for managing e-waste. These regulations often require manufacturers to take responsibility for the end-of-life disposal of their products and promote recycling and safe disposal practices. It's essential to be aware of and comply with your local e-waste regulations.",
         id: 6
-    },
-    {
-        question: "Why your Service ?",
-        answer: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        id: 7
     }
-]
+];
+
 
 export const FooterData = {
     aboutProject: "To encourage and develop an efficient and eco-friendly recycling model, for which we're looking to connect the customers(donors) to the recyclers along with the worthwhile exchange of money between them.",
-    phoneNumber: "7030405299",
+    phoneNumber: "9876543210",
     email: "support@pbl.com",
     links: {
-        instagram: "https://www.instagram.com/pict.pune/",
+        instagram: "https://www.instagram.com/",
         github: "https://github.com/pblProject2022",
         linkedin: "https://www.linkedin.com/in/pblProject2022",
-        collegeLocation: "https://www.google.com/maps/dir//pict/@18.4575292,73.7807931,12z/data=!3m1!4b1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x3bc2eac85230ba47:0x871eddd0a8a0a108!2m2!1d73.8508336!2d18.4575421"
+        collegeLocation: "https://www.google.com/maps?ll=18.651729,73.76164&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=1954845025658942717"
     }
 }

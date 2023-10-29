@@ -19,9 +19,9 @@ function Footer(props) {
                         <a href="#Pricing">Pricing</a>
                         <a href="#Working">Working</a>
                         <a href="#Faq">FAQ</a>
-                        <a href="tel: +917030405299">Contact</a>
+                        <a href="tel: +91 9876543210">Contact</a>
                     </p>
-                    <p className="footer-project-name">PBL Project (F-10-04) © 2022</p>
+                    <p className="footer-project-name">PBL Project 30/10 © 2023</p>
                 </div>
 
                 <div className="footer-center">
@@ -29,14 +29,14 @@ function Footer(props) {
                         <a href={props.data.links.collegeLocation}>
                             {/* <i className="fa fa-map-marker willChange"></i> */}
                             <CollegeLocationIcon className={"willChange"} />
-                            <p><span>PICT, Pune</span>Maharashtra, India</p>
+                            <p><span>PCCOE, Pune</span>Maharashtra, India</p>
                         </a>
                     </div>
                     <div>
                         <a href={"tel: " + props.data.phoneNumber}>
                             <ContactPhoneIcon className={"willChange"} />
                             {/* <i className="fa fa-phone willChange"></i> */}
-                            <p><abbr title="Calling Abhishek Jadhav 📞...">Call Us | {props.data.phoneNumber}</abbr></p>
+                            <p><abbr title="Calling Ashish Dhane 📞...">Call Us | {props.data.phoneNumber}</abbr></p>
                         </a>
                     </div>
                     <div>
